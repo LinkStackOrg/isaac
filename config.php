@@ -14,7 +14,7 @@ return [
 
     // Disables background flicker.
     // Either true or false.
-    'disable_flicker' => 'true',
+    'disable_flicker' => 'false',
 
 
 
