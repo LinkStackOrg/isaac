@@ -2,7 +2,7 @@
 Find more themes: https://github.com/JulianPrieber/llc-themes
                                                                                                                                                                          
 *	Theme Name: Isaac
-*	Theme Version: 1.2
+*	Theme Version: 1.3
 *	Theme Date: 2022-11-15
 *	Theme Author: JulianPrieber & LinkStack Team
 *	Theme Author URI: https://github.com/JulianPrieber
